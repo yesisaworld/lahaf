@@ -1,0 +1,34 @@
+
+            <!-- Begin Fic -->
+            <div id="???slug???" class="fic-entry mb-5">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="???image???" class="w-100">
+                        <a href="???ao3???" class="btn btn-block btn-outline-secondary rounded-0">Read</a>
+                    </div>
+                    <div class="col-md-8 d-flex">
+                        <div class="card-block d-flex flex-column p-2">
+                            <h4 class="card-title"><a href="???ao3???">???title???</a></h4>
+                            <p class="card-text">???snippet???</p>
+                            <div class="tags mt-auto">
+                                <div data-filter="length:???words???" class="badge badge-pill">???word-estimate??? words</div>
+                                <div data-filter="pairing:???pairing???" class="badge badge-pill">???label???</div>
+                                <div data-filter="???category:???tag???" class="badge badge-pill">???label???</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Fic -->
+
+
+
+            <!-- Begin Series -->
+            <div id="???slug???" class="series row mb-5">
+                <div class="col">
+                    <h3 class="card-title my-3 px-2"><a href="???ao3???">???title???</a></h3>
+                    
+                    ???fichtml???
+                </div>
+            </div>
+            <!-- End Series -->
