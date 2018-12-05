@@ -1,19 +1,19 @@
 
             <!-- Begin Fic -->
-            <div id="???slug???" class="fic-entry mb-5">
+            <div id="Theory of Evolution" class="fic-entry mb-5">
                 <div class="row">
                     <div class="col-md-4">
-                        <img src="???image???" class="w-100">
-                        <a href="???ao3???" class="btn btn-block btn-outline-secondary rounded-0">Read</a>
+                        <img src="https://66.media.tumblr.com/95f952863441a940f186aaadbabe8976/tumblr_pj8s55X30h1ui7hqxo1_540.png" class="w-100">
+                        <a href="https://archiveofourown.org/works/16777801" class="btn btn-block btn-outline-secondary rounded-0">Read</a>
                     </div>
                     <div class="col-md-8 d-flex">
                         <div class="card-block d-flex flex-column p-2">
-                            <h4 class="card-title"><a href="???ao3???">???title???</a></h4>
-                            <p class="card-text">???snippet???</p>
+                            <h4 class="card-title"><a href="https://archiveofourown.org/works/16777801">Theory of Evolution</a></h4>
+                            <p class="card-text">Louis has never backed down from a dare and isn’t about to start now.</p>
                             <div class="tags mt-auto">
-                                <div data-filter="length:???words???" class="badge badge-pill">???word-estimate??? words</div>
-                                <div data-filter="pairing:???pairing???" class="badge badge-pill">???label???</div>
-                                <div data-filter="???category:???tag???" class="badge badge-pill">???label???</div>
+                                <div data-filter="length:4652" class="badge badge-pill">4k words</div>
+                                <div data-filter="pairing:Larry" class="badge badge-pill">Larry</div>
+                                <div data-filter="category:1000 Feelings" class="badge badge-pill">a 10000 feelings fic</div>
                             </div>
                         </div>
                     </div>
