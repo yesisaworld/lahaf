@@ -1,0 +1,63 @@
+<style>
+.fic-page .content { width: auto; float: none; }
+.fic-page .sidebar { width: auto; margin: 0 };
+#fic-page {
+  /*background-color: #bad8eb;*/
+  /*font-family: "Square Serif", serif, sans-serif;*/
+  /*position: relative;*/
+}
+#fic-page h3 a, #fic-page h4 a {
+    color: #000;
+}
+#fic-page a:hover {
+  color: red !important;
+}
+#fic-page .series {
+  border: 1px solid #6c757d;
+}
+#fic-page .fic-entry {
+  background-color: #dcecf5;
+}
+#fic-page .fic-entry a.btn:hover {
+    background-color: transparent;
+    color: #6c757d;
+}
+#fic-page .badge-pill {
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: transparent;
+}
+:not(.active) #fic-page .badge-pill {
+  color: #6c757d;
+  border: 1px solid #6c757d;
+  font-weight: normal;
+}
+#fic-page .nav > ul {
+  padding-left: 0;
+}
+#fic-page .nav li {
+  display: block;
+}
+#fic-page .nav li.category {
+  text-transform: capitalize;
+}
+#fic-page .nav li.category ul {
+  text-transform: initial;
+}
+#fic-page .nav li.category ul li {
+  cursor: pointer;
+}
+#fic-page .nav li.category ul li .badge-pill {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+#fic-page .nav li.category ul li.active .badge-pill {
+  color: #48a1b4;
+  border-color: #48a1b4;
+  font-weight: bold;
+}
+#fic-page #no-fics { display: none; }
+
+</style>
