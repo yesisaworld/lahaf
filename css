@@ -1,6 +1,10 @@
 <style>
-.fic-page .content { width: auto; float: none; }
-.fic-page .sidebar { width: auto; margin: 0 };
+.fic-page { font-size: 10px; font-family: lato, arial, sans-serif; }
+.fic-page .cont { width: auto; }
+.fic-page .cont > aside { display: inline-block; }
+.fic-page .cont > section { width: calc(100% - 550px); display: inline-block; }
+.fic-page .cont > section > article { width: auto; }
+
 #fic-page {
   /*background-color: #bad8eb;*/
   /*font-family: "Square Serif", serif, sans-serif;*/
@@ -9,6 +13,9 @@
 #fic-page h3 a, #fic-page h4 a {
     color: #000;
 }
+#fic-page a {
+  color: inherit;
+}
 #fic-page a:hover {
   color: red !important;
 }
@@ -16,11 +23,14 @@
   border: 1px solid #6c757d;
 }
 #fic-page .fic-entry {
-  background-color: #dcecf5;
+  background-color: white;
 }
 #fic-page .fic-entry a.btn:hover {
     background-color: transparent;
     color: #6c757d;
+}
+#fic-page .badge {
+  font-size: 100%;
 }
 #fic-page .badge-pill {
   padding-left: 1em;
